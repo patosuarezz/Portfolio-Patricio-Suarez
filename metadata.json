@@ -1,0 +1,6 @@
+{
+  "name": "Patricio Suarez Portfolio",
+  "description": "Portfolio profesional editable para editor de video freelance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["content-editing", "persistence"]
+}
